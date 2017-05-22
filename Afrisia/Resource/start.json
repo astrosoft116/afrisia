@@ -1,0 +1,66 @@
+[
+    {
+        "Answer": "Une équipe derrière une envie de changement. Un outil révolutionnaire pour une société en manque de repères et de valeurs.",
+        "Question": "Qui sommes - nous?"
+    },
+    {
+        "Answer": "Vous pouvez localiser des business associés à vos valeurs.",
+        "Question": "Que proposons-nous?"
+    },
+    {
+        "Answer": "Nous référençons des TPE, PME, artisans, commerçants et professions libérales.",
+        "Question": "Quel type de business trouve t-on sur Afrisia?"
+    },
+    {
+        "Answer": "Nous sommes ouverts à tous les business ayant une identité.",
+        "Question": "Comment sélectionnez-vous les business partenaires sur Afrisia ?"
+    },
+    {
+        "Answer": "Dans les fiches, vous trouverez une description du business, ses valeurs associées mais également, un lien et un contact sont disponibles.",
+        "Question": "Quelles sont les informations disponibles sur les fiches de business ?"
+    },
+    {
+        "Answer": "Par le biais de contact, vous pouvez proposer vos endroits ou commerçants préférés.",
+        "Question": "Comment puis-je proposer mes spots préférés ?"
+    },
+    {
+        "Answer": "Allez sur mon compte (en haut à gauche de la page d’accueil) puis allez sur contact, sélectionnez le sujet : Business, puis remplissez le formulaire.",
+        "Question": "Puis-je suggérer des business ?"
+    },
+    {
+        "Answer": "Les labels sont représentatifs de valeurs : « étique », « bio »… ",
+        "Question": "Qu’est que les labels?"
+    },
+    {
+        "Answer": "Nous écoutons vos propositions. ",
+        "Question": "Comment choisissez-vous les labels sur Afrisia ?"
+    },
+    {
+        "Answer": "Allez sur mon compte (en haut à gauche de la page d’accueil) puis allez sur contact, sélectionnez le sujet : Label, puis remplissez le formulaire.",
+        "Question": "Puis-je suggérer des labels ?"
+    },
+    {
+        "Answer": "Allez sur la barre de recherche générale et indiquer le nom, vile, labels…",
+        "Question": "Comment rechercher un business sur Afrisia ? "
+    },
+    {
+        "Answer": "Appuyer sur le [+] de la page d’accueil, indiquez les informations associées à votre recherche (nom, localisation ou géolocalisation, business type, labels..)",
+        "Question": "Comment accédez à la  recherche avancée d’un business sur Afrisia ?"
+    },
+    {
+        "Answer": "Un descriptif de leur business ainsi que de leur fonctionnement, des contacts (téléphoniques et web) Ainsi que les labels associés à leur business",
+        "Question": "Quelles informations sont disponibles sur les fiches de business ? "
+    },
+    {
+        "Answer": "Les tags sont utilisés pour spécifier un Business Type. Il s’agit d’un sous Business Type pouvant aider à affiner la spécification des activités des business.",
+        "Question": "Qu’est-ce que les tags ? "
+    },
+    {
+        "Answer": "Un label est qualifié de privé à sa création pour ne pas apparaitre dans la liste des labels.",
+        "Question": "Qu’est-ce qu’un label privé ? "
+    },
+    {
+        "Answer": "Une association entre un business et un label peut être définie de secret à la création. Le business pourra être localisé par cette valeur par des utilisateurs partageant cette valeur à travers leur compte.",
+        "Question": "Qu’est-ce qu’une association secrète ? "
+    }
+]

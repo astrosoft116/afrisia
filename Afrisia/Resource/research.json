@@ -1,0 +1,39 @@
+[
+    {
+        "Answer": "En choisissant le type de Filtre dans la barre de résultat ou en changeant les paramètres dans Paramètres situés en bas à droite de la carte.",
+        "Question": "Comment utiliser le filtre de tri préférentiel ?"
+    },
+    {
+        "Answer": "Sélectionnez Note dans le type de Filtre (la Page de Résultat) ou Paramètres (en bas de la carte de résultats)",
+        "Question": "Comment ranger mes résultats par rapport à la Note de business ?"
+    },
+    {
+        "Answer": "Sélectionnez Proximité dans le type de Filtre (la Page de Résultat) ou Paramètres (en bas de la carte de résultats)",
+        "Question": "Comment ranger mes résultats par rapport à la Proximité de business ?"
+    },
+    {
+        "Answer": "Sélectionnez Moyenne dans le type de Filtre (la Page de Résultat) ou Paramètres (en bas de la carte de résultats)",
+        "Question": "Comment ranger mes résultats par rapport à la note de business mais aussi aux notes de mes labels ?"
+    },
+    {
+        "Answer": "Le rayon de recherches permet de restreindre les recherches à un périmètre. Un filtre sur l’ordre des recherches et un nombre limité de résultats sont proposés.",
+        "Question": "Quels sont les paramètres de la carte de résultats ?"
+    },
+    {
+        "Answer": "Oui, du moment que vous avez un compte.",
+        "Question": "Tout le monde peut poser des commentaires sur Afrisia ? "
+    },
+    {
+        "Answer": "Nos partenaires perfectionnistes sont friands de vos commentaires bons ou mauvais. Afrisia s’engage à être utile pour les utilisateurs mais aussi constructifs pour nos partenaires.",
+        "Question": "Pourquoi dois-je fournir un commentaire à partir d’une certaine note ?"
+    },
+    {
+        "Answer": "La note du business fait référence à la qualité du business par rapport à son type, de même que la note de label est la note de l’association de ce label à ce business",
+        "Question": "Quelle différence entre la note du business et la note de label ?"
+    },
+    {
+        "Answer": "Le Pseudo et les labels que vous avez déclaré publiques",
+        "Question": "Que peut-on voir de mon profil ?"
+    }
+   
+]

@@ -1,0 +1,6 @@
+framework module Pods_AfrisiaTests {
+  umbrella header "Pods-AfrisiaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
