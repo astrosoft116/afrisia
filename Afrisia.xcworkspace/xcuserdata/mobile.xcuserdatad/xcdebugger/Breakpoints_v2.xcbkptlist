@@ -56,11 +56,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Afrisia/Controllers/RegisterViewController.swift"
-            timestampString = "516147998.638441"
+            timestampString = "517196646.478262"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "248"
-            endingLineNumber = "248"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
             landmarkName = "getFacebookProfile(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -93,22 +93,6 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "62"
             endingLineNumber = "62"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Afrisia/Controllers/ResearchViewController.swift"
-            timestampString = "516155283.659623"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -152,12 +136,12 @@
                   moduleName = "Afrisia"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Volumes/Work/Project%20Diary/Afrisia/Afrisia/Controllers/Home/AddCommentViewController.swift"
-                  timestampString = "516809131.236848"
+                  timestampString = "517198888.279219"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "365"
                   endingLineNumber = "365"
-                  offsetFromSymbolStart = "6523">
+                  offsetFromSymbolStart = "7217">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -167,12 +151,12 @@
                   moduleName = "Afrisia"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Volumes/Work/Project%20Diary/Afrisia/Afrisia/Controllers/Home/AddCommentViewController.swift"
-                  timestampString = "516809131.238002"
+                  timestampString = "517198888.280435"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "367"
                   endingLineNumber = "367"
-                  offsetFromSymbolStart = "38">
+                  offsetFromSymbolStart = "47">
                </Location>
             </Locations>
          </BreakpointContent>

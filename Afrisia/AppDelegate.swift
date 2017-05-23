@@ -100,6 +100,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                         self.locationManager.startUpdatingLocation()
                     }
                     break
+                case .notDetermined, .restricted:
+                    locationManager.requestWhenInUseAuthorization()
+                    locationManager.startUpdatingLocation()
+                case .denied :
+                    self.displayAlertViewForDisableLocation()
                 default:
                     break
                 }
@@ -154,15 +159,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func displayAlertViewForDisableLocation(){
-        let alertController = UIAlertController(title: "Location Sevice are disabled", message: "Enabling Location Service, allows Cambi to help you find nearby stores and share with you, special offers by merchants", preferredStyle: .alert)
+        let alertController = UIAlertController(title: "Location Sevice are disabled", message: "Enabling Location Service, allows Afrisia to help you find nearby Businesses and share with you.", preferredStyle: .alert)
         
-        let cancelAction = UIAlertAction(title: NSLocalizedString("Don't Allow", comment: "don't allow title"), style: .cancel) { (action:UIAlertAction!) in
+        let cancelAction = UIAlertAction(title: NSLocalizedString("Cancel", comment: "don't allow title"), style: .cancel) { (action:UIAlertAction!) in
             // Redirect to Location screen
             print("Cancel Alert");
         }
         alertController.addAction(cancelAction)
         
-        let OKAction = UIAlertAction(title: NSLocalizedString("Allow", comment: "allow title"), style: .default) { (action:UIAlertAction!) in
+        let OKAction = UIAlertAction(title: NSLocalizedString("Setting", comment: "allow title"), style: .default) { (action:UIAlertAction!) in
             
             let url = NSURL(string:UIApplicationOpenSettingsURLString ) as! URL
             if UIApplication.shared.canOpenURL(url) {
